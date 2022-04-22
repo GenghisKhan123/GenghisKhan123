@@ -7,6 +7,7 @@
 - [Techsmoothy](https://www.techsmoothy.com)
 - [Starteasycrypto](https://www.starteasycrypto.com)
 - [Forrecruitment](https://www.forrecruitment.com.ng)
+- [Paygoworld](https://www.paygoworld.com)
 
 
 <!---
